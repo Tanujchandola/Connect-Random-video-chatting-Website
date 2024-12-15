@@ -1,6 +1,6 @@
 <h1 align = "center"> 
 
-CONNECT
+CONNECT- Video Chatting and Messaging Application
 
 
 </h1>
