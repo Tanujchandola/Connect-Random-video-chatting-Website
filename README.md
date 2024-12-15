@@ -12,7 +12,7 @@ CONNECT
  
 [🔴 ## 📹 Watch the demo]
 
-[![Watch the demo](https://img.youtube.com/vi/7h8aFqqjgA8/0.jpg)](https://www.youtube.com/watch?v=7h8aFqqjgA8)
+[![Watch the demo](https://img.youtube.com/vi/owX2288HcMs/0.jpg)](https://www.youtube.com/watch?v=7h8aFqqjgA8)
 
 </div>
 
