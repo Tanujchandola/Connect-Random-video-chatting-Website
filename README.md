@@ -1,6 +1,6 @@
 <h1 align = "center"> 
 
-![iggle](https://github.com/amitanshusahu/Omegle-fullstack/assets/83657737/fdeae2a5-a5aa-456a-9160-aeb87e265e8c)
+CONNECT
 
 
 </h1>
@@ -10,9 +10,11 @@
 
 <div align="center">
   
-![gihub-thumbnail](https://github.com/amitanshusahu/Omegle-fullstack/assets/83657737/7371b48d-da29-4c9b-bbb9-7b6e73207935)
 
-[🔴 watch demo on youtube](https://youtu.be/GZyKcIvQqi8)
+
+[🔴 watch demo ]https://github.com/user-attachments/assets/d638b58b-49cd-4659-b729-e91ae08e5ced
+
+
 
 </div>
 
@@ -21,21 +23,15 @@
 ## 📌 Set up project
 - clone the repo and go into it
 ```bash
-git clone https://github.com/amitanshusahu/Omegle-fullstack/ & cd Omegle-fullstack/
+git clone https://github.com/Tanujchandola/Connect-Random-video-chatting-Website-.git & cd Connect-Random-video-chatting-Website/
 ```
-- go to the client folder and start dev server
+- go to the main folder
 ```bash
-cd client && npm run dev
+npm run start-all
 ```
-- go to the server folder and start server
-```bash
-cd ../server && npm start
-```
+![pr1](https://github.com/user-attachments/assets/9d2d36d3-dd77-456e-87c3-6639786cf8a2)
+![pr2](https://github.com/user-attachments/assets/434dd458-3ab6-4798-8294-c750712bc218)
+![pr3](https://github.com/user-attachments/assets/aedf6fb0-25ea-4935-9828-3d1d4566c7d9)
 
-## Useful Links
-
-- [WebRTC Crash Course - deep dive](https://youtu.be/FExZvpVvYxA)
-
----
 
 <h1 align="center"> Star the Repo ⭐ </h1>
