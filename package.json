@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "concurrently": "^9.1.0"
+  },
+  "scripts": {
+  "start-all": "concurrently \"npm run dev --prefix ./videochat/client\" \"npm start --prefix ./videochat/server\" \"npm run start --prefix ./text\""
+}
+
+}

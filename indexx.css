@@ -1,0 +1,267 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Reset default margins and paddings */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* CSS for Navigation Bar */
+
+nav {
+  position: fixed; /* Fix the navigation bar position */
+  top: 0; /* Place the navigation bar at the top of the viewport */
+  left: 0; /* Align the navigation bar to the left */
+  width: 100%; /* Make the navigation bar span the entire width */
+  background-color: #333;
+  padding: 20px;
+  z-index: 1000; /* Ensure the navigation bar stays on top of other content */
+}
+
+.logo img {
+  height: 60px; /* Adjust the height as needed */
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+ul li {
+  margin-left: 20px;
+}
+
+ul li:first-child {
+  margin-left: auto; /* Pushes the logo to the left */
+}
+
+ul li a {
+  color: #b99191;
+  text-decoration: none;
+}
+
+
+nav {
+    background-color: #333;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between; /* Align logo and navigation links at opposite ends */
+    align-items: center; /* Center items vertically */
+    position: fixed;
+}
+
+
+.logo img {
+    height: 60px; /* Adjust the height as needed */
+    width: auto; /* Ensure the width adjusts proportionally based on the height */
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+ul li {
+    margin-left: 20px;
+}
+
+ul li:first-child {
+    margin-left: 0; /* Remove margin for the first navigation item */
+}
+
+ul li a {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px 15px; /* Add padding to create an oval shape */
+    border-radius: 30px; /* Make the links oval-shaped */
+    transition: background-color 0.3s, color 0.3s; /* Add transition for smooth color change */
+}
+
+ul li a:hover {
+    background-color: #f8f9fa; 
+    color: #8a2828;
+}
+
+/* CSS for Header, Main, and Footer */
+header {
+    background-color: #20262c; 
+    padding: 100px 0;
+    text-align: center;
+}
+
+.header-content {
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 10%;
+}
+
+h1 {
+    font-size: 48px;
+    color: #333; 
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 24px;
+    color: #666; 
+}
+
+main {
+    background-color: #fff;
+    padding: 50px 0;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Styles for Chat Options */
+.chat-options {
+    text-align: center;
+    margin-top: 4%;
+}
+
+.chat-option {
+    
+    font-size: 24px;
+    padding: 20px 40px;
+    margin: 20px;
+    
+    margin-bottom: 14%;
+    background-color: #202030; 
+    color: #beb3b3; 
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s; /* Add transition for smoother hover effect */
+}
+
+.chat-option:hover {
+    background-color: #999; 
+    color: #fff; 
+}
+
+/* CSS for About Us Section */
+.about-section {
+    background-color: #f8f9fa; 
+    padding: 50px 0;
+}
+
+.about-content {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+.about-content h2 {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.about-content h3 {
+    font-size: 28px;
+    color: #333; 
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.about-content p {
+    font-size: 20px;
+    color: #666; 
+    margin-bottom: 20px;
+}
+
+.about-content ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.about-content ul li {
+    font-size: 20px;
+    color: #666; 
+}
+
+.about-content h3:first-child {
+    margin-top: 0;
+}
+/* CSS for How to Use Section */
+.how-to-use-section {
+    background-color: #f8f9fa; 
+    padding: 50px 0;
+    text-align: center;
+}
+
+.how-to-use-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.how-to-use-content h2 {
+    font-size: 36px;
+    color: #333; 
+    margin-bottom: 20px;
+}
+
+.how-to-use-content p {
+    font-size: 20px;
+    color: #666; 
+    margin-bottom: 20px;
+}
+
+.how-to-use-content ol {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.how-to-use-content ol li {
+    font-size: 20px;
+    color: #666; 
+    margin-bottom: 10px;
+}
+/* CSS for Header, Main, and Footer */
+header, main, footer {
+    opacity: 0;
+    transition: opacity 1s ease-in-out; /* Adjust the duration and timing function as needed */
+}
+
+/* Fade in effect */
+header.fade-in, main.fade-in, footer.fade-in {
+    opacity: 1;
+}
+
+
+#home_back{
+    background-image: url('img/main.png');
+  background-position: center center; 
+  background-repeat: no-repeat; 
+  
+  min-height: 100vh; 
+}
+
+section{
+    display: block
+}
