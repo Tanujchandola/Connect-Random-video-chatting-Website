@@ -13,7 +13,11 @@ CONNECT
 
 
 [🔴 watch demo ]
-https://github.com/user-attachments/assets/d638b58b-49cd-4659-b729-e91ae08e5ced
+<video width="320" height="240" controls>
+  <source src="https://github.com/user-attachments/assets/d638b58b-49cd-4659-b729-e91ae08e5ced" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 
