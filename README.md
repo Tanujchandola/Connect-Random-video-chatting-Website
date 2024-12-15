@@ -10,7 +10,9 @@ CONNECT
 
 <div align="center">
  
-[🔴 watch demo on youtube](https://youtu.be/owX2288HcMs)
+[🔴 ## 📹 Watch the demo]
+
+[![Watch the demo](https://img.youtube.com/vi/owX2288HcMs/0.jpg)](https://www.youtube.com/watch?v=owX2288HcMs)
 
 </div>
 
