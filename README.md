@@ -9,17 +9,8 @@ CONNECT
 ---
 
 <div align="center">
-  
-
-
-[🔴 watch demo ]
-<video width="320" height="240" controls>
-  <source src="https://github.com/user-attachments/assets/d638b58b-49cd-4659-b729-e91ae08e5ced.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
-
+ 
+[🔴 watch demo on youtube](https://youtu.be/owX2288HcMs)
 
 </div>
 
