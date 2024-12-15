@@ -21,7 +21,7 @@ CONNECT- Video Chatting and Messaging Application
 ## 📌 Set up project
 - clone the repo and go into it
 ```bash
-git clone https://github.com/Tanujchandola/Connect-Random-video-chatting-Website-.git & cd Connect-Random-video-chatting-Website/
+git clone https://github.com/Tanujchandola/Connect-Random-video-chatting-Website.git & cd Connect-Random-video-chatting-Website/
 ```
 - go to the main folder
 ```bash
